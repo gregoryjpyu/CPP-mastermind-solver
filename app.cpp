@@ -21,7 +21,7 @@ int main(){
         cout << "Did it work? y/n";
         cin >> input;
         if (input == "y"){
-            cout << "AI > human gg ez no re" << endl;
+            cout << "AI > human :)" << endl;
             break;
         } 
         cout << "enter the number of blacks" << endl;
